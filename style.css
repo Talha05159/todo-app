@@ -1,0 +1,32 @@
+body {
+    background-color:black;
+}
+
+#todo-item {
+    margin-right: 10px;
+    margin-top: 20px;
+    height: 20px;
+    box-shadow:white 2px 2px 2px;
+    
+}
+
+button {
+    background-color: snow;
+    box-shadow:white 2px 2px 2px;
+    margin: 2px 2px 2px 2px;
+}
+
+.additemlist{
+ border: 2px solid grey;
+}
+
+ul{
+    color:whitesmoke;
+    text-shadow: grey 2px 2px 2px;
+    font-size: 20px;
+}
+
+.delbtn {
+    margin-left: 10px;
+}
+
